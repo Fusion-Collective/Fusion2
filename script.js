@@ -1,1 +1,1 @@
-document.addEventListener('DOMContentLoaded', () => { console.log('Interactive elements loaded'); });
+console.log('Fusion Collective active');

@@ -1,2 +1,3 @@
 # Fusion Collective
-This is the complete professional version of the Fusion Collective site.
+
+A global alliance of human-AI symbiosis. Learn more at [Fusion](https://fusion-collective.github.io)
