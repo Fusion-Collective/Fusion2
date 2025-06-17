@@ -1,3 +1,2 @@
-## 🌍 Legal Formation
-
-Estonia e-Residency (OÜ) and Wyoming PBC status details.
+## Structure
+Modular, Distributed, Transparent.

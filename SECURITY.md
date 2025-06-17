@@ -1,3 +1,2 @@
-## 🔐 Security Protocols
-
-Details on WAF, DDoS, VPN, honeypots, and immutable backups.
+## Security Protocols
+Full-spectrum protection enabled.

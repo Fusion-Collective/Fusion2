@@ -1,3 +1,2 @@
-## 🗺️ Roadmap
-
-2025 Q2-Q4: Launch, AI onboarding, app, education tools...
+## Roadmap
+Phase 1-3 complete. Future ahead.

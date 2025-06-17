@@ -1,3 +1,2 @@
-## 📜 Covenant
-
-Principles guiding humanity-AI symbiosis.
+## Covenant
+We rise together with AI.
